@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  azure_blob_manager:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - DISPLAY=${DISPLAY}
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+    stdin_open: true
+    tty: true
