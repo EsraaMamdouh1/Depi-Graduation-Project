@@ -9,7 +9,7 @@
     2.2 [Data Mounting in Databricks](#2-data-mounting-in-databricks)  
         2.2.1 [Mounting Process](#mounting-process)  
         2.2.2 [Mount Points](#mount-points)  
-        2.2.3 [Security](#databricks-security)  
+        2.2.3 [Security](#security)  
     2.3 [Data Preprocessing](#3-data-preprocessing)  
         2.3.1 [Data Types](#data-types)  
         2.3.2 [Processing](#processing)  
