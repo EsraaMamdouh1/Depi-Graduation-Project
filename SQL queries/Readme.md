@@ -142,5 +142,7 @@ pyodbc.ProgrammingError: ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL S
 </pre>
 <p>This indicates that the <code>Members</code> table may not exist or the name is incorrect. Double-check the stored procedures and table names to resolve the issue.</p>
 
+<p>This setup was done by Ahmed Ismail Fraig. For more information, visit his GitHub profile: <a href="https://github.com/ahmedfraig">Ahmed Ismail Fraig</a>.</p>
+
 </body>
 </html>
