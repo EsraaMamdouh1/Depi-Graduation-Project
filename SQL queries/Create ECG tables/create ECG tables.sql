@@ -17,7 +17,7 @@ BEGIN
     "Mean HR (BPM)" FLOAT,
     "AVNN (ms)" FLOAT,
     "SDNN (ms)" FLOAT,
-    "NN50 (beats)" FLOAT,
+    "NN50 (beats)" INT,
     "pNN50 (%)" FLOAT,
     "RMSSD (ms)" FLOAT,
     "LF (ms2)" FLOAT,
